@@ -11,7 +11,7 @@
 8. build the application project and program it onto the board.
 
 On-screen Keyboard:<ul>
-![image](https://github.com/user-attachments/assets/c0bd21d9-2ec3-4d32-afba-bb7bfc2e6f10)
+![image](https://github.com/user-attachments/assets/c0bd21d9-2ec3-4d32-afba-bb7bfc2e6f10)<ul>
 Log_2 Graph Result:<ul>
 ![image](https://github.com/user-attachments/assets/d615533c-f5ba-4d12-ac77-151b1dd732a8)<ul>
 Parabola?!:<ul>
