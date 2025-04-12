@@ -10,11 +10,20 @@
 7. copy and paste all the code include the scipt.ld files(they include all the memory settings)
 8. build the application project and program it onto the board.
 
+
 On-screen Keyboard:<ul>
-![image](https://github.com/user-attachments/assets/c0bd21d9-2ec3-4d32-afba-bb7bfc2e6f10)##
-Log_2 Graph Result:<ul>
-![image](https://github.com/user-attachments/assets/d615533c-f5ba-4d12-ac77-151b1dd732a8)<ul>
-Parabola?!:<ul>
-![image](https://github.com/user-attachments/assets/f8bb7c9e-b6c5-4aa4-a06e-3b85bcc21e75)<ul>
+
+
+![image](https://github.com/user-attachments/assets/c0bd21d9-2ec3-4d32-afba-bb7bfc2e6f10)
+
+
+Log_2 Graph Result:
+![image](https://github.com/user-attachments/assets/d615533c-f5ba-4d12-ac77-151b1dd732a8)
+
+
+Parabola?!:
+
+
+![image](https://github.com/user-attachments/assets/f8bb7c9e-b6c5-4aa4-a06e-3b85bcc21e75)
 
 I dont currently have my own zedboard anymore as it was rented but im hoping to expand the project in the future :P
