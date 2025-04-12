@@ -26,4 +26,5 @@ Parabola?!:
 
 ![image](https://github.com/user-attachments/assets/f8bb7c9e-b6c5-4aa4-a06e-3b85bcc21e75)
 
-I dont currently have my own zedboard anymore as it was rented but im hoping to expand the project in the future :P
+I dont currently have my own zedboard anymore as it was rented but im hoping to expand the project in the future :P or i might try using an altera board
+
